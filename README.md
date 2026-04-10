@@ -238,12 +238,6 @@ python main.py
 
 ---
 
-## 🧠 Resume Description
-
-Built an advanced financial AI agent integrating LLM-based reasoning (ReAct), retrieval-augmented generation (RAG), and real-time financial APIs. Implemented query normalization for handling noisy user input, intelligent routing, and multi-step reasoning for robust decision-making.
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates:
