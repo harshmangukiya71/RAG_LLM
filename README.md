@@ -238,13 +238,4 @@ python main.py
 
 ---
 
-## ⭐ Conclusion
-
-This project demonstrates:
-
-* Real-world AI system design
-* Advanced LLM usage
-* Financial data integration
-
-👉 Suitable for **Quant, AI Engineer, ML roles** 🚀
 
