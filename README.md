@@ -229,13 +229,4 @@ python main.py
 
 ---
 
-## 🚀 Future Improvements
-
-* Function calling agent (remove guardrails)
-* LangGraph integration
-* FastAPI deployment
-* Streamlit UI
-
----
-
 
