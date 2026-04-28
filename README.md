@@ -1,4 +1,4 @@
-# 🚀 Finance AI Agent (Advanced Version: RAG + ReAct + Query Optimization)
+# 🚀 Finance AI Agent (RAG + ReAct + Query Optimization)
 
 ## 📌 Overview
 
